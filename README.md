@@ -1,1 +1,1 @@
-# mausam-pi-bme280-carrier
+# Carrier board with RJ11 port for BME280 Sensor
