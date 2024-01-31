@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.10-7.0.10~ubuntu22.04.1"
     },
-    "CreationDate": "2024-01-29T19:20:00+05:30"
+    "CreationDate": "2024-01-31T09:18:21+05:30"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -45,6 +45,21 @@
       "Path": "bir-bme280-rj11-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
+    },
+    {
+      "Path": "bir-bme280-rj11-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "bir-bme280-rj11-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "bir-bme280-rj11-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
     },
     {
       "Path": "bir-bme280-rj11-Edge_Cuts.gbr",
